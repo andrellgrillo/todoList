@@ -1,6 +1,19 @@
 .taskList {
+  border-top: 1px solid var(--gray-500);
+  border-radius: 8px;
+  /* display: flex; */
+  /* justify-content: center; */
+  /* align-items: center; */
+  /* background: purple; */
+}
+
+.empty {
   display: flex;
   justify-content: center;
   align-items: center;
-  background: purple;
+  
+}
+
+.empty p {
+  text-align: center;
 }

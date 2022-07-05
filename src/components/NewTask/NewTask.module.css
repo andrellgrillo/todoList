@@ -29,7 +29,7 @@
   /* width: 5.625rem; */
   padding: 1.25rem 1rem;
   border-radius: 8px;
-  border: 8;
+  border: 0px;
   background: var(--blue-dark);
   color: var(--gray-100);
   font-weight: bold;
