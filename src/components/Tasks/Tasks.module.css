@@ -1,0 +1,34 @@
+.tasks {
+  margin-top: 4rem;
+}
+
+.info {
+  height: 1.25rem;
+  display: flex;
+  justify-content: space-between;
+  font-weight: bold;
+  margin-bottom: 1.5rem;
+  
+}
+
+.created {
+  color: var(--blue);
+}
+
+.created span {
+  margin-left: 0.5rem;
+  padding: 0.25rem 0.5rem;
+  border-radius: 8px;
+  background: var(--gray-500);
+}
+
+.done {
+  color: var(--purple);
+}
+
+.done span {
+  margin-left: 0.5rem;
+  padding: 0.25rem 0.5rem;
+  border-radius: 8px;
+  background: var(--gray-500);
+}
