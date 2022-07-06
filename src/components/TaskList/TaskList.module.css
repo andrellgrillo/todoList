@@ -7,13 +7,19 @@
   /* background: purple; */
 }
 
-.empty {
+.icon {
   display: flex;
   justify-content: center;
-  align-items: center;
+  color: var(--gray-300);
+}
+
+.pHeader {
+  text-align: center;
+  color: var(--gray-100);
   
 }
 
-.empty p {
+.pSubHeader {
+  color: var(--gray-300);
   text-align: center;
 }
